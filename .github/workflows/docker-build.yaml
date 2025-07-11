@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: yourdockerhubusername/yourimagename:latest
+          tags: sakthisaran/portfolio_ui_2.0:latest
